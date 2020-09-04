@@ -9,7 +9,7 @@
     "@carbon/themes": "^10.9.0",
     "carbon-components": "^10.9.0",
     "carbon-components-react": "^7.9.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-router-dom": "^5.1.2",
